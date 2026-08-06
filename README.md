@@ -1,6 +1,6 @@
 # Car MP3 Infrared (IR) Remote Control
 
-![Car MP3 Remote Control](car-mp3.jpg)
+![Car MP3 Remote Control](car-mp3.png)
 
 ## Description
 
