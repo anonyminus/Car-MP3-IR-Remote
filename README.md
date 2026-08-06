@@ -34,8 +34,7 @@ This is a precision 38 kHz Infrared transmitter that uses a MOS integrated circu
 |    7       8        9     |
 |   0x42    0x52     0x4A   |
 |                           |
-|           Car             |
-|           mp3             |
+|         Car mp3           |
  \                         /
    -----------------------
 ```
