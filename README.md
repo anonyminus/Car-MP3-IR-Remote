@@ -41,6 +41,7 @@ This is a precision 38 kHz Infrared transmitter that uses a MOS integrated circu
 |           mp3             |
  \                         /
    -----------------------
+```
 
 ## Specifications
 
