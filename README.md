@@ -11,7 +11,7 @@ This is a new ultra-thin 38KHz universal infrared IR Remote Control, NEC encodin
 This is a precision 38 kHz Infrared transmitter that uses a MOS integrated circuit with NEC transmission format ideally suited for remote operation in TV, VCD, and all compatible IR receiver devices. The NEC transmission format includes leader codes, customs codes (16 bits), and data codes (16 bits). The frequency of oscillation is determined by the Crystal. The IR LEDs connected to the output emit IR pulses at 38kHz. The circuit is ideal for most IR Sensors since these are designed for 38 kHz pulsed IR rays.
 
 ## Infrared (IR) Remote Control Hex Codes
-
+```text
    -----------------------
  /                         \
 |   CH-      CH       CH+   |
