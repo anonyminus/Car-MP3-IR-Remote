@@ -19,8 +19,7 @@ This is a precision 38 kHz Infrared transmitter that uses a MOS integrated circu
 |  |<<      >>|      >||    |
 |   0x44    0x48     0x43   |
 |                           |
-|  VOL-     VOL+      EQ    |
-|   -        +              |
+|   VOL-    VOL+      EQ    |                           
 |   0x07    0x15     0x09   |
 |                           |
 |    0      100+     200+   |
