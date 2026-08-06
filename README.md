@@ -1,5 +1,3 @@
-# Car-MP3-IR-Remote
-38KHz NEC infrared (IR) hex codes, button mappings, and hardware specifications for the generic Car MP3 remote.
 # Car MP3 Infrared (IR) Remote Control
 
 ![Car MP3 Remote Control](car mp3.jpg)
